@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav h1{
+    color:blueviolet;
+    margin:0;
+    font-size: 40px;
+}
+
+.nav li{
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
