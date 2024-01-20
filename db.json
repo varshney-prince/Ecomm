@@ -1,0 +1,68 @@
+{
+  "seller": [
+    {
+      "id": "2456",
+      "name": "prince",
+      "email": "prince@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "d866",
+      "name": "prince varshney",
+      "email": "prince@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7745",
+      "name": "Prince Prince",
+      "password": "1234",
+      "email": "varshneyprince20000@gmail.com"
+    },
+    {
+      "id": "6c07",
+      "name": "Hello Prince",
+      "password": "1234",
+      "email": "varshneyprince20000@gmail.com"
+    },
+    {
+      "id": "23b4",
+      "name": "test prince",
+      "password": "345667",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "8db2",
+      "name": "test prince 1",
+      "password": "653654",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "6ac9",
+      "name": "Harsh singh",
+      "password": "234234",
+      "email": "varshneyprince20000@gmail.com"
+    },
+    {
+      "id": "e6d5",
+      "name": "test prince 1",
+      "password": "546465",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "551c",
+      "email": "varshneyprince20000@gmail.com",
+      "password": "123434"
+    }
+  ],
+  "products": [
+    {
+      "id": "47ab",
+      "name": "I Phone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "Apple Product",
+      "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
