@@ -55,13 +55,41 @@
     }
   ],
   "products": [
+   
     {
-      "id": "47ab",
-      "name": "I Phone",
-      "price": "100000",
+      "id": "47e2",
+      "name": "phone",
+      "price": "30000",
       "category": "mobile",
       "color": "black",
-      "description": "Apple Product",
+      "description": "samsung",
+      "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "26a0",
+      "name": "phone",
+      "price": "30000",
+      "category": "mobile",
+      "color": "black",
+      "description": "samsung",
+      "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "df05",
+      "name": "phone",
+      "price": "30000",
+      "category": "mobile",
+      "color": "black",
+      "description": "samsung",
+      "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "12b1",
+      "name": "phone",
+      "price": "30000",
+      "category": "mobile",
+      "color": "black",
+      "description": "samsung",
       "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
